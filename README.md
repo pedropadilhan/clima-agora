@@ -1,4 +1,4 @@
-# clima-agora
+# climagora
 - Neste projeto foi desenvolvido uma interface integrada a API: https://openweathermap.org/api que fornece as informaçoes climaticas de diferentes cidades.
 - HTML, CSS e javascript
 - link do projeto hospedado: https://pedropadilhan.github.io/clima-agora/
